@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/license-MIT-green)
 
-[Link to Deployed Application]()
+[Link to Deployed Application](https://laura505-book-search-engine.herokuapp.com/)
 
 ## Description
 Refactoring a Google Books API search engine built with a RESTful API to be a GraphQL API built with Apollo Server.
